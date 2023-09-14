@@ -1,0 +1,12 @@
+
+L
+java:S3740"/Provide the parametrized type for this generic.(İ˜üğ8ÚıàÈ1
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(×ñ±Æúÿÿÿÿ8ÜıàÈ1
+m
+java:S1149"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(İ˜üğ8óıàÈ1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(±è¤×øÿÿÿÿ8ôıàÈ1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(”‘©úÿÿÿÿ8õıàÈ1
+J
+java:S1128".Remove this unused import 'java.util.HashSet'.(Ê‚êX8øıàÈ1
+L
+java:S1128"*Remove this unused import 'java.util.Set'.(ö²„¤şÿÿÿÿ8ùıàÈ1

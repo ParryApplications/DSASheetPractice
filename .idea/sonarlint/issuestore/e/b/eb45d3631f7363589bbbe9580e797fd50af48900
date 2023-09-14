@@ -1,0 +1,16 @@
+
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(’¼Î»üÿÿÿÿ8‚Çæžž1
+r
+java:S1149"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(ÑÖÙƒýÿÿÿÿ8‡Èæžž1
+r
+java:S1149$"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(ÑÖÙƒýÿÿÿÿ8‡Èæžž1
+Z	java:S106
+"9Replace this use of System.out or System.err by a logger.(Ãë÷®ûÿÿÿÿ8ˆÈæžž1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(¡œöØûÿÿÿÿ8ˆÈæžž1
+o
+java:S3776#"RRefactor this method to reduce its Cognitive Complexity from 20 to the 15 allowed.(Ž€Á·8ŠÈæžž1
+J	java:S108,")Either remove or fill this block of code.(Í’øéúÿÿÿÿ8‹Èæžž1
+J	java:S108.")Either remove or fill this block of code.(×¿Èèÿÿÿÿÿ8‹Èæžž1
+E	java:S1080")Either remove or fill this block of code.(ÛõÕÍ8‹Èæžž1
+E
+java:S1125;"(Remove the unnecessary boolean literals.(ÝÍÙ”8‹Èæžž1

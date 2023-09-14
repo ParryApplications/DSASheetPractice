@@ -17,3 +17,13 @@ Tsrc/com/parryapp/competitive/program/DSA/Arrays/Fifth/ChocolateDistributionProb
 Msrc/com/parryapp/competitive/program/DSA/Arrays/Sixth/RotatedArraySearch.java,a/b/abb425746621e25f589edd0060e65efc6f07951b
 z
 Jsrc/com/parryapp/competitive/program/DSA/String/First/ValidPalindrome.java,4/b/4bf9677aa5ecd7e704378b578d4316e11a11771b
+k
+;src/com/parryapp/competitive/program/DSA/RoughPractice.java,8/d/8d4fdbca729800e27381e18a2a02d5caca256436
+x
+Hsrc/com/parryapp/competitive/program/DSA/String/Second/ValidAnagram.java,b/b/bbe13b9664ccf0fbecfacb1a3cb6f36457fc3016
+{
+Ksrc/com/parryapp/competitive/program/DSA/String/Third/ValidParenthesis.java,e/b/eb45d3631f7363589bbbe9580e797fd50af48900
+‡
+Wsrc/com/parryapp/competitive/program/DSA/String/Fourth/RemoveConsecutiveCharacters.java,6/b/6bab73c8520168f18f22d158bb87b9e93db28c7d
+v
+Fsrc/com/parryapp/competitive/program/DSA/Arrays/Third/MaxSubArray.java,5/4/54445918232071a1e8cf747fb6696fb041b135cf
